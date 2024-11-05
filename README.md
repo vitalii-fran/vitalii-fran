@@ -1,6 +1,6 @@
 <h1 align="center">
   Hey there! I'm <br>
-  <img src="cooltext469510356555493(3).png" alt="Vitalii Franchuk">
+  <img src="cooltext469510356555493(3).png" width="350" alt="Vitalii Franchuk">
 </h1>
 
 <p align="center">
