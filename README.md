@@ -8,8 +8,9 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width="400" alt="DevOps GIF">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="600" alt="Holographic Code GIF">
 </div>
+
 
 ---
 
